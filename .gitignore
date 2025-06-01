@@ -1,0 +1,9 @@
+# This branch is intentionally scoped to the Auth App only.
+# Ignore everything at repo root by default, then allowlist Auth App.
+/*
+!/Auth App/
+!/Auth App/**
+!.gitignore
+
+# OS
+.DS_Store
